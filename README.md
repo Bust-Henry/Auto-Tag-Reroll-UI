@@ -2,7 +2,7 @@
 
 A quality-of-life mod for Balatro that automatically rerolls your run until you get your preferred Ante tag.
 
-![Auto Tag Reroll UI](https://i.imgur.com/placeholder.png)
+![Auto Tag Reroll UI](example.png)
 
 ## Features
 
