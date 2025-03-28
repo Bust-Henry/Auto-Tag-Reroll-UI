@@ -29,6 +29,7 @@ A quality-of-life mod for Balatro that automatically rerolls your run until you 
 - Tested with Balatro v1.0+
 - Compatible with Steamodded v1.0+
 - Works alongside other quality-of-life mods
+- Everything was just tested on windows 10. The mod should work on every machine that can run Steammodded, but it might have to be installed manually
 
 ## Known Issues
 
